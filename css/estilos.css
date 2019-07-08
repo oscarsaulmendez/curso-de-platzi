@@ -6,4 +6,5 @@ body {
 .cabecera{
     color: #000;
     background-color: #aaffff;
+    border-bottom: 5px solid #000;
 }
